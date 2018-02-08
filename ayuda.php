@@ -27,6 +27,7 @@
 				</ul>
 			</div>
 			<div id="nav2">
+				<!--esto es un comentario-->
 				<div id="login"><a href="crear_cuenta.php">Crear cuenta</a></div>
 			</div>
 			<div id="nav3">
@@ -43,7 +44,7 @@
 			<div id="ayuda_box">
 				<p>¿Cómo puedo crear una cuenta en Quejate PR Online?</p>
 				<p>Debes oprimir el botón
-				<img id="crear_cuenta" src="/home/ricardo.febles/public_html/sici4997/quejatepronline/pictures/crear_cuenta.png" alt="Boton de Crear Cuenta"/> y completar el formulario. Una
+				<img id="crear_cuenta" src="pictures/crear_cuenta.png" alt="Boton de Crear Cuenta"/> y completar el formulario. Una
 				vez completado recibirá un email en donde tendrá que validar su cuenta.</p>
 				<p>¿Mis quejas pueden llegar directamente al municipio?</p>
 				<p>Claro, cada municipio tiene servidores para recibir las quejas 
