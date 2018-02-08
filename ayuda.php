@@ -34,16 +34,16 @@
 			</div>
 		</nav>
 		<aside>
-	<div class="flags">
-							<img id="pr_flag" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/800px-Flag_of_Puerto_Rico.svg.png" alt="PR_Flag"/>
-							<img id="us_flag" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1235px-Flag_of_the_United_States.svg.png" alt="PR_Flag"/>
+			<div class="flags">
+							<img id="pr_flag" src="pictures/pr_flag.png" alt="PR_Flag"/>
+							<img id="us_flag" src="pictures/us_flag.png" alt="PR_Flag"/>
 			</div>
 		</aside>
 		<article>
 			<div id="ayuda_box">
 				<p>¿Cómo puedo crear una cuenta en Quejate PR Online?</p>
 				<p>Debes oprimir el botón
-				<img id="crear_cuenta" src="pictures/crear_cuenta.png" alt="Boton de Crear Cuenta"/> y completar el formulario. Una
+				<img id="crear_cuenta" src="/home/ricardo.febles/public_html/sici4997/quejatepronline/pictures/crear_cuenta.png" alt="Boton de Crear Cuenta"/> y completar el formulario. Una
 				vez completado recibirá un email en donde tendrá que validar su cuenta.</p>
 				<p>¿Mis quejas pueden llegar directamente al municipio?</p>
 				<p>Claro, cada municipio tiene servidores para recibir las quejas 
