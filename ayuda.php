@@ -27,7 +27,6 @@
 				</ul>
 			</div>
 			<div id="nav2">
-				<!--esto es un comentario-->
 				<div id="login"><a href="crear_cuenta.php">Crear cuenta</a></div>
 			</div>
 			<div id="nav3">
